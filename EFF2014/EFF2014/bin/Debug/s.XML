@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Reclamation>
+    <idstagiaire>1</idstagiaire>
+    <nom>ALLAOUI</nom>
+    <prenom>Ahmed</prenom>
+    <idFiliere>1</idFiliere>
+    <TotalAbsence>1</TotalAbsence>
+  </Reclamation>
+  <Reclamation>
+    <idstagiaire>2</idstagiaire>
+    <nom>BENANI</nom>
+    <prenom>HIND</prenom>
+    <idFiliere>1</idFiliere>
+    <TotalAbsence>0</TotalAbsence>
+  </Reclamation>
+</NewDataSet>

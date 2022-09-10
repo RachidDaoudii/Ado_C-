@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmployeService" Class="EmployeServiceDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-71BCM1U\SQLEXPRESS;Initial Catalog=EmployeService;Integrated Security=True" SettingsObjectName="EFM_ADO.Properties.Settings" SettingsPropertyName="EmployeServiceConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employe" Member="Employe">
+    <Type Name="Employe">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nom" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Prenom" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DateNaissance" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="IdService" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Service_Employe" Member="Service" ThisKey="IdService" OtherKey="IdService" Type="Service" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Service" Member="Service">
+    <Type Name="Service">
+      <Column Name="IdService" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomService" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Service_Employe" Member="Employe" ThisKey="IdService" OtherKey="IdService" Type="Employe" />
+    </Type>
+  </Table>
+</Database>

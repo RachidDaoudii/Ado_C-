@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\bin\Debug\EFF2021CASA.exe.config
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\bin\Debug\EFF2021CASA.exe
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\bin\Debug\EFF2021CASA.pdb
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.Form1.resources
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.Properties.Resources.resources
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.exe
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.pdb
+C:\Users\dell\source\repos\EFF2021CASA\EFF2021CASA\obj\Debug\EFF2021CASA.Form2.resources

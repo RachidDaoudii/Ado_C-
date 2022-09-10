@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\bin\Debug\EFM_ADO.exe.config
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\bin\Debug\EFM_ADO.exe
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\bin\Debug\EFM_ADO.pdb
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.Form1.resources
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.Properties.Resources.resources
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.exe
+C:\Users\dell\source\repos\EFM_ADO\EFM_ADO\obj\Debug\EFM_ADO.pdb

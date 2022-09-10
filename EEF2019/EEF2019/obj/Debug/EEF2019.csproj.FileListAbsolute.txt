@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\EEF2019\EEF2019\bin\Debug\EEF2019.exe.config
+C:\Users\dell\source\repos\EEF2019\EEF2019\bin\Debug\EEF2019.exe
+C:\Users\dell\source\repos\EEF2019\EEF2019\bin\Debug\EEF2019.pdb
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.Form1.resources
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.Properties.Resources.resources
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.exe
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.pdb
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.Form2.resources
+C:\Users\dell\source\repos\EEF2019\EEF2019\obj\Debug\EEF2019.Form3.resources

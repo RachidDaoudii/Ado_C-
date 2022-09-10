@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\EFF2014\EFF2014\bin\Debug\EFF2014.exe.config
+C:\Users\dell\source\repos\EFF2014\EFF2014\bin\Debug\EFF2014.exe
+C:\Users\dell\source\repos\EFF2014\EFF2014\bin\Debug\EFF2014.pdb
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.Form1.resources
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.Properties.Resources.resources
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.exe
+C:\Users\dell\source\repos\EFF2014\EFF2014\obj\Debug\EFF2014.pdb
